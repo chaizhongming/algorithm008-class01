@@ -10,3 +10,5 @@ git push origin ：推送到到远程github仓库
 2、leetcode-283 move-zeros
 3、leetcode-641 design-circular-deque
 
+本周是第一次训练营的第一周，相信自己能坚持下，希望自己通过训练营的刻意练习，我这个半路出家的程序员代码水平能有较大提高，加油！
+
