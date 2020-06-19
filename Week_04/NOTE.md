@@ -18,6 +18,7 @@ def dfs(node, visited):
 **BFS 代码模板**
 
 def BFS(graph, start, end):
+
     visited = set()
 	queue = [] 
 	queue.append([start]) 
@@ -36,7 +37,9 @@ def BFS(graph, start, end):
 **二分查找代码模板**
 
 left, right = 0, len(array) - 1 
+
 while left <= right: 
+
 	  mid = (left + right) / 2 
 	  if array[mid] == target: 
 		    # find the target!! 
